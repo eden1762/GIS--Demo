@@ -5,6 +5,7 @@
 二、TGOS
 三、Google Map
 四、OSM
+五、MapGuild
 
 一、ArcGIS
 
@@ -13,3 +14,5 @@
 三、Google Map
 
 四、OSM
+
+五、MapGuild
